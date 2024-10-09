@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "ENNOID")(type "KiCad")(uri "D:/BMS_ENNOID/ENNOID-BMS-master/Master/HV/PCB/ENNOID.pretty")(options "")(descr ""))
-)
